@@ -1,22 +1,22 @@
-# Hi there! I'm [Your Name], a Web Developer 👋
+# Hi there! I'm Francesco, a Full-stack Developer 👋
 
 ## 🔧 My Skills
 
 ### 💻 Programming Languages & Tools
 
-![HTML5](https://img.shields.io/badge/HTML5-★★★★☆-orange?logo=html5&logoColor=white&style=for-the-badge)
-![CSS3](https://img.shields.io/badge/CSS3-★★★☆☆-blue?logo=css3&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-★★★☆☆-yellow?logo=javascript&logoColor=white&style=for-the-badge)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-★★★☆☆-purple?logo=bootstrap&logoColor=white&style=for-the-badge)
-![jQuery](https://img.shields.io/badge/jQuery-★★★☆☆-blue?logo=jquery&logoColor=white&style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-★★★★☆-red?logo=git&logoColor=white&style=for-the-badge)
-![GitHub](https://img.shields.io/badge/GitHub-★★★☆☆-black?logo=github&logoColor=white&style=for-the-badge)
+![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white&style=for-the-badge)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?logo=bootstrap&logoColor=white&style=for-the-badge)
+![jQuery](https://img.shields.io/badge/jQuery-blue?logo=jquery&logoColor=white&style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-red?logo=git&logoColor=white&style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white&style=for-the-badge)
 
 ### 🚀 Frameworks
 
-![React](https://img.shields.io/badge/React-★★★★☆-blue?logo=react&logoColor=white&style=for-the-badge)
-![Node.js](https://img.shields.io/badge/Node.js-★★★☆☆-green?logo=node.js&logoColor=white&style=for-the-badge)
-![Express.js](https://img.shields.io/badge/Express.js-★★★★☆-black?logo=express&logoColor=white&style=for-the-badge)
+![React](https://img.shields.io/badge/React-blue?logo=react&logoColor=white&style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js&logoColor=white&style=for-the-badge)
+![Express.js](https://img.shields.io/badge/Express.js-black?logo=express&logoColor=white&style=for-the-badge)
 
 ## 🏆 My Qualities
 
@@ -27,5 +27,5 @@
 
 ## 📫 Let's Connect!
 
-- LinkedIn: [My LinkedIn Profile URL](https://www.linkedin.com/in/francesco-stefan-a316aa1ba/)
-- Email: [francescostefan98@gmail.com](mailto:your-email-address)
+- LinkedIn: [https://www.linkedin.com/in/francesco-stefan-a316aa1ba/](https://www.linkedin.com/in/francesco-stefan-a316aa1ba/)
+- Email: [francescostefan98@gmail.com](francescostefan98@gmail.com)
