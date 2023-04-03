@@ -40,10 +40,6 @@
 - **Passion for learning**: I am always eager to learn new technologies and expand my skillset.
 - **Testing expertise**: I am experienced in testing software and applications, with a proficiency in Jest.
 - **Database management**: I am knowledgeable in database management systems such as MongoDB and PostgreSQL.
-- **TypeScript**
-
-- **Collaborative spirit**: I work well with others and am able to communicate effectively in a team setting.
-- **Passion for learning**: I am always eager to learn new technologies and expand my skillset.
 
 ## 📫 Let's Connect!
 
